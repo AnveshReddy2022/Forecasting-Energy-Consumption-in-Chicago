@@ -30,8 +30,3 @@ Each model is evaluated based on its predictive performance, with a focus on R-s
 - **Check Visualizations**: Engage with interactive visualizations to visualize predictions and insights.
 - **Read Documentation**: For a comprehensive understanding, review the project reports in the `Documentation/` folder.
 
-## Contributing
-Contributions to enhance the analysis, extend the dataset, or improve modeling techniques are welcome. Please fork this repository, make your changes, and submit a pull request.
-
-## License
-This project is released under the MIT License. See [LICENSE](LICENSE.txt) for more details.
